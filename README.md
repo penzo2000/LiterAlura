@@ -1,5 +1,9 @@
 # LiterAlura
 Challenge propuesto por Alura Latam
+<h3>Badge LiterAlura</h3>
+
+![badge literalura](https://github.com/penzo2000/LiterAlura/assets/118405340/689bc043-5594-49aa-8190-7b300398acba)
+
 <h2>Explicación del Challenge</h2>
 <p>En este emocionante desafío de programación, te invitamos a construir tu propio catálogo de libros: el LiterAlura. Aprenderás a realizar solicitudes a una API de libros, a manipular datos JSON, guardarlos en una base de datos y, finalmente, a filtrar y mostrar los libros y autores de interés.</p>
 <p>OBJETIVO: Desarrollar un Catálogo de Libros que ofrezca interacción textual (vía consola) con los usuarios, proporcionando al menos 5 opciones de interacción. Los libros se buscarán a través de una API específica. La información sobre la API y las opciones de interacción con el usuario se detallará en la columna "Backlog"/"Listo para iniciar, del trello proporcionado".</p>
