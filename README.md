@@ -20,4 +20,4 @@ Challenge propuesto por Alura Latam
 <h2>Demostración del programa en ejecución</h2>
 
 Pueden ver una demostración del programa en ejecución donde pruebo sus distintas funcionalidades en el siguiente enlace, que los guiará a un video de YouTube: 
-[Enlace al video de demostración](https://www.youtube.com/tuvideo)
+[Enlace al video de demostración](https://youtu.be/Hw2AuyYKZfA)
