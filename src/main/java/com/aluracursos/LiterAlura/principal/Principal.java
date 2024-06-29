@@ -52,18 +52,18 @@ public class Principal {
                     case 2:
                         getLibrosRegistrados();
                         break;
-                case 3:
-                    getAutoresRegistrados();
-                    break;
-                case 4:
-                    getAutoresPorAnio();
-                    break;
-                case 5:
-                    getLibrosPorIdioma();
-                    break;
-                case 6:
-                    System.out.println("Hasta luego. Cerrando aplicación.....-");
-                    break;
+                    case 3:
+                        getAutoresRegistrados();
+                        break;
+                    case 4:
+                        getAutoresPorAnio();
+                        break;
+                    case 5:
+                        getLibrosPorIdioma();
+                        break;
+                    case 6:
+                        System.out.println("Hasta luego. Cerrando aplicación.....-");
+                        break;
                     default:
                         System.out.println("Opción inválida");
                 }
